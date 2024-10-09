@@ -9,7 +9,7 @@ web developer
 - 🤔 I’m looking for help with Website Developments
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /><br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/saranya-g/](https://www.linkedin.com/in/saranya-ganeshan-070695170?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+<br /><br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/saranya-ganeshan-070695170?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app])
 
 
 ### I code in
